@@ -7,9 +7,9 @@ This is a Readme document in Markdown format which was created within final cour
 
 1.  run\_analysis.R as required by instructions and does all analyzes in changed order. The file also includes the self description of some parts of the process, so you can see most necessary description there. After you run this script, it should, also, save results of each 5 steps of the final task as csv format in ./data folder. Required final tidy dataset is stored as ./task\_5\_final\_dataset.txt
 
-2.  Readme.Rmd documents which describe each step of analyzes with a bit more details and results displayed. Also, this file allows run analyzes as the separate function for each data step with explanation of each step.
+2.  Readme.md documents which describe each step of analyzes with a bit more details and results displayed. Also, this file allows run analyzes as the separate function for each data step with explanation of each step.
 
-3.  CodeBook.Rmd which contains codebook of initially used data and codebook for each step of analyzes.
+3.  CodeBook.md which contains codebook of initially used data and codebook for each step of analyzes.
 
 The order of steps neede to complete final task was changed and that was reflected by step numbes.
 
